@@ -54,6 +54,7 @@ Currently working at **Vibgyor Interiors, Bengaluru** and co-developing **NexPat
 </p>
 
 &nbsp;   
+<p align="center">
 <a href="[https://mimo.org/certificates](https://www.virtualbadge.io/certificate-validator?credential=d0fdef68-7d32-482d-b5b8-27de9192962e)" target="_blank">
 <img src="https://img.shields.io/badge/Mimo.org-Full%20Stack%20Web%20Development-6C3BFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhsMiAyIDIuNS0yLjVMMTUgOWwtMiAyeiIvPjwvc3ZnPg==&logoColor=white" alt="Mimo Full Stack Certificate" />
 </a>

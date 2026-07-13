@@ -53,6 +53,15 @@ Currently working at **Vibgyor Interiors, Bengaluru** and co-developing **NexPat
   <sub>✅ JavaScript Algorithms and Data Structures — freeCodeCamp &nbsp;|&nbsp; Verify at freecodecamp.org/certification/shreyabrilliant/javascript-v9</sub>
 </p>
 
+&nbsp;   
+<a href="[https://mimo.org/certificates](https://www.virtualbadge.io/certificate-validator?credential=d0fdef68-7d32-482d-b5b8-27de9192962e)" target="_blank">
+<img src="https://img.shields.io/badge/Mimo.org-Full%20Stack%20Web%20Development-6C3BFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhsMiAyIDIuNS0yLjVMMTUgOWwtMiAyeiIvPjwvc3ZnPg==&logoColor=white" alt="Mimo Full Stack Certificate" />
+</a>
+</p>
+<p align="center">
+  <sub>✅ Full Stack Web Development — Mimo.org &nbsp;|&nbsp; Verify at mimo.org/certificates</sub>
+</p>
+
 ---
 
 ## 🛠️ Languages & Tools
@@ -74,7 +83,7 @@ Currently working at **Vibgyor Interiors, Bengaluru** and co-developing **NexPat
 <h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" title="Node.js"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" title="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" title="Express.js"/>
 </p>
 <h3 align="center">Database</h3>
 <p align="center">

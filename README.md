@@ -6,19 +6,25 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Bengaluru-India-0F6E56?style=flat-square" alt="Location" />
 </p>
+
 ---
+
 ### 👋 Hi, I'm Shreyaa
 Full Stack Developer with a background in **Biological Sciences** and a certification in Full Stack Development. I build clean, functional web applications — from REST APIs to real-time interfaces — and bring a rare combination of scientific thinking and software engineering to every project.
 Currently working at **Vibgyor Interiors, Bengaluru** and co-developing **NexPath** (AI career advisor) and **Mindloom** (distraction-free publishing platform).
+
 ---
+
 ## 📌 About Me
 - 🌱 Currently learning — backend API architecture, PostgreSQL, and AI integration with Node.js
 - 👯 Looking to collaborate on — fullstack web apps, science-tech crossover projects, and developer tools
 - 🔨 Currently building — [NexPath](https://github.com/CosmicShreyaa) · AI Career Advisor & [Mindloom](https://github.com/CosmicShreyaa) · Editorial Publishing Platform
 - 🎓 BSc Biological Sciences · Full Stack Development Certificate (Mimo.org)
-- 📫 Reach me at — [shreyaabrillix@gmail.com](mailto:shreyaabrillix@gmail.com)
+- 📫 Reach me at — [docweirdoshreya2@gmail.com](mailto:docweirdoshreya2@gmail.com)
 - 🌐 Portfolio — [shreyaa.is-a.dev](https://shreyaa.is-a.dev)
+
 ---
+
 ## 🚀 Currently Building
 <table>
   <tr>
@@ -34,17 +40,21 @@ Currently working at **Vibgyor Interiors, Bengaluru** and co-developing **NexPat
     </td>
   </tr>
 </table>
+
 ---
+
 ## 🏅 Certifications
 <p align="center">
-  <a href="https://www.freecodecamp.org/certification/shreyaabrilliant/javascript-v9" target="_blank">
+  <a href="https://www.freecodecamp.org/certification/shreyabrilliant/javascript-v9" target="_blank">
     <img src="https://img.shields.io/badge/freeCodeCamp-JavaScript%20Algorithms%20%26%20Data%20Structures-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp JS Certificate" />
   </a>
 </p>
 <p align="center">
-  <sub>✅ JavaScript Algorithms and Data Structures — freeCodeCamp &nbsp;|&nbsp; Verify at freecodecamp.org/certification/shreyaabrilliant/javascript-v9</sub>
+  <sub>✅ JavaScript Algorithms and Data Structures — freeCodeCamp &nbsp;|&nbsp; Verify at freecodecamp.org/certification/shreyabrilliant/javascript-v9</sub>
 </p>
+
 ---
+
 ## 🛠️ Languages & Tools
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -79,7 +89,9 @@ Currently working at **Vibgyor Interiors, Bengaluru** and co-developing **NexPat
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" title="Postman"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" title="Vite"/>
 </p>
+
 ---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CosmicShreyaa&cache_seconds=7200&show_icons=true&theme=github_dark&border_radius=10&hide_border=true" alt="Shreyaa's GitHub Stats" />
@@ -94,7 +106,9 @@ Currently working at **Vibgyor Interiors, Bengaluru** and co-developing **NexPat
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicShreyaa&theme=github-compact&radius=10&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
+
 ---
+
 ## 🧠 Focus Areas
 ```
   Full Stack Web Development ████████████████████ Core Skill
@@ -103,18 +117,22 @@ Currently working at **Vibgyor Interiors, Bengaluru** and co-developing **NexPat
   AI-Integrated Applications ████████░░░░░░░░░░░░ Growing
   Open Source Contribution ██████░░░░░░░░░░░░░░ Growing
 ```
+
 ---
+
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreyaabrillix/">
+  <a href="https://www.linkedin.com/in/shreya-b10a4b411/">
     <img src="https://img.shields.io/badge/LinkedIn-Shreyaa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
-  <a href="mailto:shreyaabrillix@gmail.com">
+  <a href="mailto:docweirdoshreya02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-shreyaabrillix-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>&nbsp;
   <a href="https://shreyaa.is-a.dev">
     <img src="https://img.shields.io/badge/Portfolio-shreyaa.is--a.dev-0F6E56?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
 ---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0F6E56,100:0F6E56&height=120&section=footer" width="100%"/>
